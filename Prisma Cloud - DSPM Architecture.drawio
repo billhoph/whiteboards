@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-05-08T13:16:18.887Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="yHGO-ejOWNlRpxX0sC1j" version="24.2.5" type="device">
+<mxfile host="Electron" modified="2024-05-08T13:27:19.981Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="7Hdy7Pom4bwWlUEEBq6d" version="24.2.5" type="device">
   <diagram name="AWS" id="oOL-0bGKErkvkfQNaN-z">
-    <mxGraphModel dx="3684" dy="2678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3925" dy="2678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,13 +24,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6RQyg_Obhzu90SjiiitR-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;flowAnimation=1;strokeWidth=2;strokeColor=#FF8000;" edge="1" parent="1" source="0_Uzkfdp6XrTRoqFkSga-1" target="6RQyg_Obhzu90SjiiitR-146">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6RQyg_Obhzu90SjiiitR-152" value="Scan Data" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;flowAnimation=1;strokeWidth=2;strokeColor=#FF8000;" edge="1" parent="1" source="0_Uzkfdp6XrTRoqFkSga-1" target="6RQyg_Obhzu90SjiiitR-146">
+          <mxGeometry x="0.5388" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="6RQyg_Obhzu90SjiiitR-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;flowAnimation=1;strokeWidth=2;strokeColor=#FF8000;" edge="1" parent="1" source="0_Uzkfdp6XrTRoqFkSga-1" target="6RQyg_Obhzu90SjiiitR-144">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6RQyg_Obhzu90SjiiitR-153" value="Scan Data" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;flowAnimation=1;strokeWidth=2;strokeColor=#FF8000;" edge="1" parent="1" source="0_Uzkfdp6XrTRoqFkSga-1" target="6RQyg_Obhzu90SjiiitR-144">
+          <mxGeometry x="0.349" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="6RQyg_Obhzu90SjiiitR-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;flowAnimation=1;strokeWidth=2;strokeColor=#FF8000;" edge="1" parent="1" source="0_Uzkfdp6XrTRoqFkSga-1" target="6RQyg_Obhzu90SjiiitR-140">
+        <mxCell id="6RQyg_Obhzu90SjiiitR-154" value="Scan Data" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;flowAnimation=1;strokeWidth=2;strokeColor=#FF8000;" edge="1" parent="1" source="0_Uzkfdp6XrTRoqFkSga-1" target="6RQyg_Obhzu90SjiiitR-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0_Uzkfdp6XrTRoqFkSga-1" value="Prisma Cloud&lt;div style=&quot;font-size: 16px;&quot;&gt;DSPM&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;(Dig Security)&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
