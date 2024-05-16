@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-05-16T07:18:32.741Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Ol_yDJtpXx2wDcq0Y6ZL" version="24.2.5" type="device">
+<mxfile host="Electron" modified="2024-05-16T07:19:54.113Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="ROnzgoUsylG7WiFutvv6" version="24.2.5" type="device">
   <diagram name="Onboarding" id="t2MzZW9pGKtbB2Ooh3lP">
     <mxGraphModel dx="2264" dy="1268" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,10 +32,11 @@
             <mxPoint x="455" y="491" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NcAq1nEZuETaazXwx4-U-7" value="Network Flow logs" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSize=13;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;dashed=1;strokeWidth=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;" parent="NcAq1nEZuETaazXwx4-U-1" source="NcAq1nEZuETaazXwx4-U-8" edge="1">
+        <mxCell id="NcAq1nEZuETaazXwx4-U-7" value="Network Flow logs" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSize=13;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;dashed=1;strokeWidth=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;entryX=1.008;entryY=0.365;entryDx=0;entryDy=0;entryPerimeter=0;" parent="NcAq1nEZuETaazXwx4-U-1" source="NcAq1nEZuETaazXwx4-U-8" target="VTeo_DVUwEcc_p55htbv-9" edge="1">
           <mxGeometry x="-0.0803" y="-28" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="359" y="695" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NcAq1nEZuETaazXwx4-U-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=13;" parent="NcAq1nEZuETaazXwx4-U-1" vertex="1">
