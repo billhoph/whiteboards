@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-05-18T10:43:05.150Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="cPeo5So1sek725wlitSz" version="24.2.5" type="device">
+<mxfile host="Electron" modified="2024-05-18T10:59:57.655Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="5swO7NppdVb8vVUtJdMM" version="24.2.5" type="device">
   <diagram name="Page-1" id="oeHzKFjDdDRRLYsFU2Fe">
-    <mxGraphModel dx="1436" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1457" dy="1884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,8 +289,8 @@
         <mxCell id="jpMbi49bNgi_nhjlTisX-108" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.alert;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="199.85" y="-340" width="50.3" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="jpMbi49bNgi_nhjlTisX-110" value="Issues&lt;div style=&quot;font-size: 14px;&quot;&gt;Detected&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="130" y="-332.75" width="60" height="30" as="geometry" />
+        <mxCell id="jpMbi49bNgi_nhjlTisX-110" value="Container&lt;div&gt;Risk&lt;/div&gt;&lt;div&gt;Detected&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="120" y="-332.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jpMbi49bNgi_nhjlTisX-111" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/1024px-Slack_icon_2019.svg.png;" parent="1" vertex="1">
           <mxGeometry x="886" y="-264" width="44" height="44" as="geometry" />
@@ -338,6 +338,9 @@
           <mxGeometry x="-0.6561" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mFt2VgySlpveblWsH4NY-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png;" vertex="1" parent="1">
+          <mxGeometry x="266.02" y="-344.62" width="93.98" height="53.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
