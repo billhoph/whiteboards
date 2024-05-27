@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-05-27T23:07:06.232Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="oB9iSCCbdsPf6o3bXTgd" version="24.4.8" type="device">
+<mxfile host="Electron" modified="2024-05-27T23:07:49.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="K8eg0y-PamU_NI6obJKv" version="24.4.8" type="device">
   <diagram name="Page-1" id="rJtAdyn2ItCwGOce5TL7">
     <mxGraphModel dx="3290" dy="2508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -239,9 +239,10 @@
           <mxGeometry x="-790" y="70" width="20" height="310" as="geometry" />
         </mxCell>
         <mxCell id="UUSq_2UDcAGou4G-HE2J-82" value="Prisma Cloud Security Protection Area" style="endArrow=classic;startArrow=classic;html=1;rounded=0;hachureGap=4;strokeColor=#7F00FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=14;fontColor=#232F3E;fontStyle=1;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;flowAnimation=1;curved=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="-0.0081" y="10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-575" y="-40" as="sourcePoint" />
             <mxPoint x="40" y="-40" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UUSq_2UDcAGou4G-HE2J-83" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;dashed=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#000000;align=center;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=14;fontColor=#232F3E;fontStyle=1;labelBackgroundColor=none;fillColor=none;image=https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/rfuwf3yqq2cermkmrej6;" parent="1" vertex="1">
