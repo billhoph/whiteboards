@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-05-07T23:12:15.644Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="3wIJwSvmZ0eS3aiAtXTN" version="24.2.5" type="device">
+<mxfile host="Electron" modified="2024-06-09T09:56:28.220Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="cA4Vr1RlRfcp0hvpTraL" version="24.2.5" type="device">
   <diagram name="Page-1" id="DeBseBWq3in80cft9qD8">
-    <mxGraphModel dx="1314" dy="2093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1464" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,7 +48,7 @@
         <mxCell id="wf-TVDKNXgqIJZ-00V4I-16" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=16;fillColor=#fff2cc;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="414" y="500" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wf-TVDKNXgqIJZ-00V4I-18" value="Deploy CSA Agent&amp;nbsp;&lt;div&gt;i.e.new version XDR Agent&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=16;fontColor=default;curved=1;strokeWidth=2;flowAnimation=1;" parent="1" source="wf-TVDKNXgqIJZ-00V4I-3" target="wf-TVDKNXgqIJZ-00V4I-14" edge="1">
+        <mxCell id="wf-TVDKNXgqIJZ-00V4I-18" value="Deploy Cortex XDR Agent for Cloud&amp;nbsp;&lt;div&gt;i.e.new version XDR Agent&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=16;fontColor=default;curved=1;strokeWidth=2;flowAnimation=1;" parent="1" source="wf-TVDKNXgqIJZ-00V4I-3" target="wf-TVDKNXgqIJZ-00V4I-14" edge="1">
           <mxGeometry x="-0.8706" y="-110" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
