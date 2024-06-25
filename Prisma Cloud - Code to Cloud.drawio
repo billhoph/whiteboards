@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-06-19T04:44:23.692Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="-C60IIaBLUoxF-39JEKw" version="24.2.5" type="device" pages="8">
+<mxfile host="Electron" modified="2024-06-24T03:25:18.866Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="YfdIUdNAq3v0fNGrgp7P" version="24.2.5" type="device" pages="8">
   <diagram name="AWS" id="nojwFFKbEJfxAIoV3yGd">
-    <mxGraphModel dx="2037" dy="837" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1715" dy="807" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -296,11 +296,12 @@
           <mxGeometry x="1335.5" y="256.75" width="139" height="91" as="geometry" />
         </mxCell>
         <mxCell id="5URiSfWugU1SPOrfES1A-41" value="SASE / SDWAN" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00CC00;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;" parent="1" source="5URiSfWugU1SPOrfES1A-2" target="5URiSfWugU1SPOrfES1A-40" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0005" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1308" y="400" />
               <mxPoint x="1412" y="400" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5URiSfWugU1SPOrfES1A-42" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.996;entryY=0.948;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#007FFF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;" parent="1" source="5URiSfWugU1SPOrfES1A-2" target="hN2UPd_6Lu9fuNbE9eLv-34" edge="1">
@@ -355,7 +356,7 @@
           <mxGeometry x="400" y="820" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5URiSfWugU1SPOrfES1A-62" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;image=https://media.licdn.com/dms/image/D560BAQFtROBHKAD45A/company-logo_200_200/0/1703201210882/strata_by_palo_alto_networks_logo?e=2147483647&amp;v=beta&amp;t=QUShqbnp8qkFPZrzmQ2B0UH5K-oadhjrt2q18d8NZnA;" parent="1" vertex="1">
-          <mxGeometry x="1045.25" y="825" width="70" height="70" as="geometry" />
+          <mxGeometry x="1019" y="825" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5URiSfWugU1SPOrfES1A-64" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;image=https://lh3.googleusercontent.com/YlwczxRATj_a4sGRLSJi7JzhGsxiYupSzuAu1i94PlJ6CYl71ghwYgeiDiEyDQxD8NRQI62OWXLxpbdz2Qk;" parent="1" vertex="1">
           <mxGeometry x="1569" y="820" width="55.75" height="71" as="geometry" />
@@ -363,8 +364,8 @@
         <mxCell id="5URiSfWugU1SPOrfES1A-65" value="Prisma Cloud" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="474" y="845" width="106" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5URiSfWugU1SPOrfES1A-66" value="Strata" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1115.25" y="840.5" width="64.75" height="30" as="geometry" />
+        <mxCell id="5URiSfWugU1SPOrfES1A-66" value="Strata &amp;amp; Prisma Access" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1089" y="840.5" width="134.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5URiSfWugU1SPOrfES1A-67" value="Cortex" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="1629.75" y="840.5" width="64.75" height="30" as="geometry" />
