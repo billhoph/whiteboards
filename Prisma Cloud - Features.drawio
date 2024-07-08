@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-07-02T13:01:14.110Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="nh04VvRs-u78gwjGbnKl" version="24.2.5" type="device" pages="7">
+<mxfile host="Electron" modified="2024-07-08T03:11:49.433Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="0h7maGnFvJHndZAC1UIY" version="24.6.4" type="device" pages="8">
   <diagram name="Features" id="0zuaV3Zg5J-J-51PGs7z">
     <mxGraphModel dx="2074" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -677,6 +677,131 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2OKoz1TPi8L4KWYyu1LC-22" value="Risk Level" style="curved=1;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;" parent="1" edge="1">
+          <mxGeometry x="-0.5946" y="3" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="50" as="sourcePoint" />
+            <mxPoint x="1010" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="50" />
+              <mxPoint x="230" y="90" />
+              <mxPoint x="340" y="170" />
+              <mxPoint x="370" y="290" />
+              <mxPoint x="440" y="340" />
+              <mxPoint x="470" y="460" />
+              <mxPoint x="630" y="440" />
+              <mxPoint x="690" y="520" />
+              <mxPoint x="790" y="630" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Adoption Journey 中文" id="MEmZhdczClUTxqRusoPa">
+    <mxGraphModel dx="1314" dy="1324" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="YHml39O5MzTEOaaQXAOY-0" />
+        <mxCell id="YHml39O5MzTEOaaQXAOY-1" parent="YHml39O5MzTEOaaQXAOY-0" />
+        <mxCell id="YHml39O5MzTEOaaQXAOY-2" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="YHml39O5MzTEOaaQXAOY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="750" as="sourcePoint" />
+            <mxPoint x="80" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHml39O5MzTEOaaQXAOY-3" value="Risks Preventable&lt;div&gt;可防範及保護的風險&lt;/div&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;flowAnimation=1;strokeWidth=3;strokeColor=#0000FF;fontSize=24;fontColor=#0000FF;fontStyle=1" edge="1" parent="YHml39O5MzTEOaaQXAOY-1">
+          <mxGeometry x="0.3545" y="-28" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="710" as="sourcePoint" />
+            <mxPoint x="1000" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="720" />
+              <mxPoint x="320" y="520" />
+              <mxPoint x="430" y="530" />
+              <mxPoint x="440" y="430" />
+              <mxPoint x="490" y="390" />
+              <mxPoint x="685" y="398" />
+              <mxPoint x="700" y="190" />
+              <mxPoint x="860" y="190" />
+            </Array>
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHml39O5MzTEOaaQXAOY-4" value="Cloud Security Visibility&lt;div&gt;雲端安全可視性&lt;/div&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;flowAnimation=1;strokeWidth=3;strokeColor=#FF33FF;fontSize=24;fontStyle=1;fontColor=#FF33FF;" edge="1" parent="YHml39O5MzTEOaaQXAOY-1">
+          <mxGeometry x="0.1383" y="25" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="700" as="sourcePoint" />
+            <mxPoint x="980" y="-80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="720" />
+              <mxPoint x="320" y="450" />
+              <mxPoint x="420" y="470" />
+              <mxPoint x="490" y="310" />
+              <mxPoint x="600" y="210" />
+              <mxPoint x="760" y="180" />
+              <mxPoint x="910" y="120" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHml39O5MzTEOaaQXAOY-5" value="" style="line;strokeWidth=1;direction=south;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;" vertex="1" parent="YHml39O5MzTEOaaQXAOY-1">
+          <mxGeometry x="190" y="-60" width="10" height="809.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="YHml39O5MzTEOaaQXAOY-6" value="" style="line;strokeWidth=1;direction=south;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;" vertex="1" parent="YHml39O5MzTEOaaQXAOY-1">
+          <mxGeometry x="400" y="-60" width="10" height="809.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="YHml39O5MzTEOaaQXAOY-7" value="" style="line;strokeWidth=1;direction=south;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;" vertex="1" parent="YHml39O5MzTEOaaQXAOY-1">
+          <mxGeometry x="470" y="-60" width="10" height="809.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="YHml39O5MzTEOaaQXAOY-8" value="" style="line;strokeWidth=1;direction=south;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;" vertex="1" parent="YHml39O5MzTEOaaQXAOY-1">
+          <mxGeometry x="630" y="-60" width="10" height="809.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="YHml39O5MzTEOaaQXAOY-9" value="" style="line;strokeWidth=1;direction=south;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;" vertex="1" parent="YHml39O5MzTEOaaQXAOY-1">
+          <mxGeometry x="780" y="-60" width="10" height="809.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="YHml39O5MzTEOaaQXAOY-10" value="" style="line;strokeWidth=1;direction=south;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;" vertex="1" parent="YHml39O5MzTEOaaQXAOY-1">
+          <mxGeometry x="320" y="-60" width="10" height="809.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="YHml39O5MzTEOaaQXAOY-11" value="CSPM&lt;div&gt;雲端安全性&lt;/div&gt;&lt;div&gt;態勢管理&lt;br&gt;&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=1;entryX=0.024;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontStyle=1;labelBackgroundColor=none;spacingBottom=61;" edge="1" parent="YHml39O5MzTEOaaQXAOY-1" target="YHml39O5MzTEOaaQXAOY-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="-40" as="sourcePoint" />
+            <mxPoint x="250" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHml39O5MzTEOaaQXAOY-12" value="DSPM&lt;div&gt;資料態勢管理&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=1;entryX=0.062;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontStyle=1;labelBackgroundColor=none;spacingBottom=61;" edge="1" parent="YHml39O5MzTEOaaQXAOY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="10" as="sourcePoint" />
+            <mxPoint x="408" y="10.220000000000027" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHml39O5MzTEOaaQXAOY-13" value="CDEM&lt;div&gt;雲端攻擊面管理&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=1;entryX=0.062;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontStyle=1;labelBackgroundColor=none;spacingBottom=61;" edge="1" parent="YHml39O5MzTEOaaQXAOY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="392" y="66" as="sourcePoint" />
+            <mxPoint x="480" y="66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHml39O5MzTEOaaQXAOY-14" value="CWP&lt;div&gt;(Agentless)&lt;/div&gt;&lt;div&gt;無代理式雲端工作負載保護&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=1;entryX=0.072;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontStyle=1;labelBackgroundColor=none;spacingBottom=61;" edge="1" parent="YHml39O5MzTEOaaQXAOY-1" target="YHml39O5MzTEOaaQXAOY-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" as="sourcePoint" />
+            <mxPoint x="558" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHml39O5MzTEOaaQXAOY-15" value="CWP&lt;div&gt;(Agent)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;+ WAAS&lt;/span&gt;&lt;/div&gt;&lt;div&gt;雲端工作負載保護&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=1;entryX=0.072;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontStyle=1;labelBackgroundColor=none;spacingBottom=61;" edge="1" parent="YHml39O5MzTEOaaQXAOY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="628" y="49" as="sourcePoint" />
+            <mxPoint x="790" y="47" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHml39O5MzTEOaaQXAOY-16" value="Cloud Application&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Security&lt;/span&gt;&lt;div&gt;應用開發安全保護&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=1;fontSize=16;fontStyle=1;labelBackgroundColor=none;spacingBottom=61;" edge="1" parent="YHml39O5MzTEOaaQXAOY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="-8" as="sourcePoint" />
+            <mxPoint x="1010" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHml39O5MzTEOaaQXAOY-17" value="Nothing&lt;div&gt;没有防護&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=1;entryX=0.024;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontStyle=1;labelBackgroundColor=none;spacingBottom=61;" edge="1" parent="YHml39O5MzTEOaaQXAOY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="76" y="-17" as="sourcePoint" />
+            <mxPoint x="200" y="-18" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHml39O5MzTEOaaQXAOY-18" value="Risk Level&lt;div&gt;風險水平&lt;/div&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=24;" edge="1" parent="YHml39O5MzTEOaaQXAOY-1">
           <mxGeometry x="-0.5946" y="3" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="50" as="sourcePoint" />
             <mxPoint x="1010" y="670" as="targetPoint" />
