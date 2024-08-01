@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-07-29T03:06:03.161Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="tkjcqPegjhrfBTdtchag" version="24.2.5" type="device" pages="8">
+<mxfile host="Electron" modified="2024-07-29T04:39:18.245Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="_d4KhMvHDGdj2Dk7cg3F" version="24.2.5" type="device" pages="8">
   <diagram id="cZsNDmOCpd42IwSFrDqB" name="Data LifeCycle">
     <mxGraphModel dx="2076" dy="902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -303,7 +303,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XFAjb-pTQR-7fnOYCge2" name="AI-SPM">
-    <mxGraphModel dx="2945" dy="2228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3035" dy="2003" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
