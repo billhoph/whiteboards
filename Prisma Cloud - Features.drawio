@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-08-04T14:53:37.939Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="XKXsg1qBD11gXgCtLuF0" version="24.2.5" type="device" pages="12">
+<mxfile host="Electron" modified="2024-08-13T01:19:49.641Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="V6dNFi1kX6i1fJZpud6G" version="24.2.5" type="device" pages="12">
   <diagram name="Features" id="0zuaV3Zg5J-J-51PGs7z">
     <mxGraphModel dx="2314" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -158,7 +158,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-kYswKp2vhZ_uEYCbBBJ" name="Pyramid 中文">
-    <mxGraphModel dx="664" dy="868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1064" dy="868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,6 +228,9 @@
         <mxCell id="dEfJqbrIwk0kHPb4UJmp-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="1670" y="390" width="18.42" height="345.79" as="geometry" />
         </mxCell>
+        <mxCell id="d4AkQDLPRGjdEU6pXn56-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;strokeColor=#7F00FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=oval;endFill=0;flowAnimation=1;" edge="1" parent="1" source="dEfJqbrIwk0kHPb4UJmp-11" target="Ly5ALkP3-TAr6MSHwC0q-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dEfJqbrIwk0kHPb4UJmp-11" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;Cloud Native Application Protection Platform (CNAPP)&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;雲端原生應用程式保護平台&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="1710" y="550" width="130" height="30" as="geometry" />
         </mxCell>
@@ -244,7 +247,7 @@
           <mxGeometry x="920" y="555" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dEfJqbrIwk0kHPb4UJmp-16" value="K8S/Lambda&lt;div style=&quot;font-size: 20px;&quot;&gt;Linux/Windows&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="870" y="626.11" width="60" height="30" as="geometry" />
+          <mxGeometry x="865" y="642.22" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dEfJqbrIwk0kHPb4UJmp-24" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="1190" y="790" width="70" height="132.89" as="geometry" />
@@ -281,6 +284,15 @@
         </mxCell>
         <mxCell id="Ly5ALkP3-TAr6MSHwC0q-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.exclusive-networks.com/wp-content/uploads/2023/03/strata-logo-icon.png;" parent="1" vertex="1">
           <mxGeometry x="1733.5" y="730" width="63" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lLiWTHVs02vfMd5DvRDZ-1" value="&lt;span style=&quot;font-size: 16px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;XDR&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;擴展的偵測與回應&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="713" y="545" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lLiWTHVs02vfMd5DvRDZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;strokeColor=#7F00FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=oval;endFill=0;flowAnimation=1;" edge="1" parent="1" source="UFsVSVVGVoZxJAzShEJD-1" target="lLiWTHVs02vfMd5DvRDZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d4AkQDLPRGjdEU6pXn56-1" value="SecOps Modernization&#xa;安全運營現代化" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.exclusive-networks.com/wp-content/uploads/2023/03/cortex-logo-icon.png;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="762.64" y="411" width="60.72" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
