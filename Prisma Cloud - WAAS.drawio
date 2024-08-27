@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-08-13T09:07:16.453Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="nuOM_xVJk3_npQjWgFs8" version="24.2.5" type="device" pages="6">
+<mxfile host="Electron" modified="2024-08-22T08:50:27.798Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="CpyO5P1JI5BsstV5hGvc" version="24.2.5" type="device" pages="6">
   <diagram name="Basic" id="5Pv7PxVP32vhw9XwZVa4">
-    <mxGraphModel dx="1464" dy="868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1676" dy="902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,7 +208,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F-EOEH30CRnNeiBzBCqU" name="Deployment Options">
-    <mxGraphModel dx="1464" dy="868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="958" dy="515" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -357,7 +357,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CMkLl6LmFcEDqbNyzVRE" name="WAAS Rules">
-    <mxGraphModel dx="1464" dy="868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1676" dy="902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -544,7 +544,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DIUWNRllv9MVfOqK9bJn" name="Decision Make Flow">
-    <mxGraphModel dx="1464" dy="868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -627,7 +627,7 @@
         <mxCell id="uVRIvsTl9pWWEY9N0HXY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="uVRIvsTl9pWWEY9N0HXY-21" target="uVRIvsTl9pWWEY9N0HXY-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uVRIvsTl9pWWEY9N0HXY-21" value="Define OOB&lt;br&gt;Collection" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Gloria Hallelujah;fontSize=20;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;" parent="1" vertex="1">
+        <mxCell id="uVRIvsTl9pWWEY9N0HXY-21" value="Define OOB&lt;br&gt;Collection" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Gloria Hallelujah;fontSize=20;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="323" y="928" width="118" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uVRIvsTl9pWWEY9N0HXY-22" value="Exclude System&lt;div&gt;Tools e.g. kube-system&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Gloria Hallelujah;fontSize=20;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;" parent="1" vertex="1">
@@ -639,7 +639,7 @@
         <mxCell id="uVRIvsTl9pWWEY9N0HXY-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="uVRIvsTl9pWWEY9N0HXY-25" target="uVRIvsTl9pWWEY9N0HXY-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uVRIvsTl9pWWEY9N0HXY-25" value="Create&lt;div&gt;OOB WAAS Policy&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Gloria Hallelujah;fontSize=20;fontColor=default;labelBackgroundColor=default;sketch=1;curveFitting=1;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;" parent="1" vertex="1">
+        <mxCell id="uVRIvsTl9pWWEY9N0HXY-25" value="Create&lt;div&gt;OOB WAAS Policy&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Gloria Hallelujah;fontSize=20;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="505" y="928" width="182" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uVRIvsTl9pWWEY9N0HXY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="uVRIvsTl9pWWEY9N0HXY-27" target="uVRIvsTl9pWWEY9N0HXY-28" edge="1">
@@ -769,17 +769,17 @@
         <mxCell id="uVRIvsTl9pWWEY9N0HXY-77" value="WAAS Enablement Flow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=60;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="1187" y="687" width="728" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uVRIvsTl9pWWEY9N0HXY-78" value="OUT OF BAND WAAS" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=53.78;notch=44.78;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=32;" parent="1" vertex="1">
+        <mxCell id="uVRIvsTl9pWWEY9N0HXY-78" value="OUT OF BAND WAAS" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=53.78;notch=44.78;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=32;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="139" y="1448" width="872" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="uVRIvsTl9pWWEY9N0HXY-79" value="IN-line WAAS" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=53.78;notch=44.78;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=32;" parent="1" vertex="1">
+        <mxCell id="uVRIvsTl9pWWEY9N0HXY-79" value="IN-line WAAS" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=53.78;notch=44.78;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=32;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1001" y="1448" width="872" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="wVskiK3sAZ_R6ymlaisW" name="API e2e">
-    <mxGraphModel dx="1412" dy="868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1224" dy="868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -829,7 +829,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VUgv428t-T1g1GQt8TtO" name="Page-6">
-    <mxGraphModel dx="1464" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1224" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
