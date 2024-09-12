@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-09-11T13:59:34.897Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Hc1JTHkay5xwNr1_Ipy4" version="24.2.5" type="device" pages="13">
+<mxfile host="Electron" modified="2024-09-12T06:18:18.867Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="LX4egq0uXDLc2GxMCgz8" version="24.2.5" type="device" pages="13">
   <diagram name="Features" id="0zuaV3Zg5J-J-51PGs7z">
     <mxGraphModel dx="2314" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -158,7 +158,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VqRz0mnW76LnYqKGPC9t" name="Shared Responsibility Model">
-    <mxGraphModel dx="1464" dy="868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1394" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -314,7 +314,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-kYswKp2vhZ_uEYCbBBJ" name="Pyramid 中文">
-    <mxGraphModel dx="1276" dy="902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="841" dy="668" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -370,7 +370,7 @@
           <mxGeometry x="1497.5" y="660" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OMtQDk5nLuBDGGX_Z3zC-1" value="&lt;span style=&quot;font-size: 16px; font-weight: 700; text-wrap: nowrap;&quot;&gt;WAAS&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;應用及API安全&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1477.5" y="580" width="160" height="50" as="geometry" />
+          <mxGeometry x="1477.5" y="580" width="160.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OMtQDk5nLuBDGGX_Z3zC-3" value="&lt;span style=&quot;font-size: 16px; font-weight: 700; text-wrap: nowrap;&quot;&gt;DSPM&lt;/span&gt;&lt;div style=&quot;font-size: 16px; font-weight: 700; text-wrap: nowrap;&quot;&gt;資料安全態勢管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="1307.5" y="400" width="330" height="50" as="geometry" />
@@ -451,7 +451,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MMCJVObSEsZEoLY5bh4f" name="Adoption Journey">
-    <mxGraphModel dx="1676" dy="1302" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1464" dy="1268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
