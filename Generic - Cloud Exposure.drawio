@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-09-12T02:18:36.891Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="3g0uuaa0uNQ9zdtZFglK" version="24.2.5" type="device" pages="3">
+<mxfile host="Electron" modified="2024-09-12T02:23:34.631Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="ml96jqEBHuVHwAWY6-ct" version="24.2.5" type="device" pages="3">
   <diagram name="Base" id="GzKmUDTyy3iWXBIo0WP2">
     <mxGraphModel dx="1976" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -436,7 +436,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="CNAPP" id="lNtV8Z4R1zf2R1KXrPlh">
-    <mxGraphModel dx="2646" dy="2204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2701" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="g7Ewh3mEGocv8DUqMpVP-0" />
         <mxCell id="g7Ewh3mEGocv8DUqMpVP-1" parent="g7Ewh3mEGocv8DUqMpVP-0" />
@@ -668,25 +668,25 @@
         <mxCell id="dVuns0RqjUsm6lN7m8Au-8" value="Cloud Services&lt;div&gt;Configuration&lt;br&gt;e.g. Public Exposed?&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;labelBackgroundColor=none;position2=0.17;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;flipV=1;size=30;position=0.21;fontColor=#000000;opacity=30;" vertex="1" parent="g7Ewh3mEGocv8DUqMpVP-1">
           <mxGeometry x="1090" y="435" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="gtXp-kN1Z9nSZtFgRjpy-3" value="Attack&lt;div&gt;Surface Management&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontColor=#000000;" vertex="1" parent="g7Ewh3mEGocv8DUqMpVP-1">
+        <mxCell id="gtXp-kN1Z9nSZtFgRjpy-3" value="Attack&lt;div&gt;Surface Management&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#FF8000;fontColor=#000000;strokeWidth=5;" vertex="1" parent="g7Ewh3mEGocv8DUqMpVP-1">
           <mxGeometry x="-130" y="540" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="gtXp-kN1Z9nSZtFgRjpy-8" value="Code &amp;amp; Pipeline&lt;div&gt;Security&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontColor=#000000;" vertex="1" parent="g7Ewh3mEGocv8DUqMpVP-1">
+        <mxCell id="gtXp-kN1Z9nSZtFgRjpy-8" value="Code &amp;amp; Pipeline&lt;div&gt;Security&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#FF8000;fontColor=#000000;strokeWidth=5;" vertex="1" parent="g7Ewh3mEGocv8DUqMpVP-1">
           <mxGeometry x="727.5" y="-350" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gtXp-kN1Z9nSZtFgRjpy-10" value="Cloud Identity&lt;div&gt;Security&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontColor=#000000;" vertex="1" parent="g7Ewh3mEGocv8DUqMpVP-1">
+        <mxCell id="gtXp-kN1Z9nSZtFgRjpy-10" value="Cloud Identity&lt;div&gt;Security&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#FF8000;fontColor=#000000;strokeWidth=5;" vertex="1" parent="g7Ewh3mEGocv8DUqMpVP-1">
           <mxGeometry x="620" y="-20" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gtXp-kN1Z9nSZtFgRjpy-12" value="Cloud Configuration &amp;amp; Threat Detection" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontColor=#000000;" vertex="1" parent="g7Ewh3mEGocv8DUqMpVP-1">
+        <mxCell id="gtXp-kN1Z9nSZtFgRjpy-12" value="Cloud Configuration &amp;amp; Threat Detection" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#FF8000;fontColor=#000000;strokeWidth=5;" vertex="1" parent="g7Ewh3mEGocv8DUqMpVP-1">
           <mxGeometry x="510" y="610" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3Pr-mNfZLHb8B-HO6Dvl-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;strokeColor=#FF00FF;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=oval;endFill=0;flowAnimation=1;" edge="1" parent="g7Ewh3mEGocv8DUqMpVP-1" source="gtXp-kN1Z9nSZtFgRjpy-14" target="g7Ewh3mEGocv8DUqMpVP-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gtXp-kN1Z9nSZtFgRjpy-14" value="Data &amp;amp; AI Security" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontColor=#000000;" vertex="1" parent="g7Ewh3mEGocv8DUqMpVP-1">
+        <mxCell id="gtXp-kN1Z9nSZtFgRjpy-14" value="Data &amp;amp; AI Security" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#FF8000;fontColor=#000000;strokeWidth=5;" vertex="1" parent="g7Ewh3mEGocv8DUqMpVP-1">
           <mxGeometry x="1260" y="330" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gtXp-kN1Z9nSZtFgRjpy-16" value="Workload Security" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontColor=#000000;" vertex="1" parent="g7Ewh3mEGocv8DUqMpVP-1">
+        <mxCell id="gtXp-kN1Z9nSZtFgRjpy-16" value="Workload Security" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#FF8000;fontColor=#000000;strokeWidth=5;" vertex="1" parent="g7Ewh3mEGocv8DUqMpVP-1">
           <mxGeometry x="800" y="-20" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gtXp-kN1Z9nSZtFgRjpy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeWidth=3;strokeColor=#FF00FF;endArrow=oval;endFill=0;flowAnimation=1;dashed=1;dashPattern=1 1;" edge="1" parent="g7Ewh3mEGocv8DUqMpVP-1" source="gtXp-kN1Z9nSZtFgRjpy-3" target="g7Ewh3mEGocv8DUqMpVP-33">
