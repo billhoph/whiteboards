@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
   <diagram name="Page-1" id="Cf96VfZsJOUyNksSCbDR">
-    <mxGraphModel dx="989" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="1759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="300" y="140" width="195" height="130" as="geometry" />
         </mxCell>
         <mxCell id="gZAkS-AGusxoyFhxjlCA-2" value="Public&lt;div style=&quot;font-size: 14px;&quot;&gt;Cloud&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;(CSPM)&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;sketch=1;curveFitting=1;jiggle=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="90" y="290" width="195" height="130" as="geometry" />
+          <mxGeometry x="160" y="280" width="135" height="90" as="geometry" />
         </mxCell>
         <mxCell id="gZAkS-AGusxoyFhxjlCA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.16;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=14;fontColor=default;curved=1;flowAnimation=1;strokeColor=#FFFFFF;strokeWidth=2;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="gZAkS-AGusxoyFhxjlCA-1" target="gZAkS-AGusxoyFhxjlCA-2">
           <mxGeometry relative="1" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="420" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gZAkS-AGusxoyFhxjlCA-14" value="Git Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=14;fontColor=default;labelBackgroundColor=default;fillColor=default;rotation=15;" vertex="1" parent="1">
-          <mxGeometry x="695" y="20" width="30" height="60" as="geometry" />
+          <mxGeometry x="685" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gZAkS-AGusxoyFhxjlCA-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 1;strokeColor=#FF00FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=14;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;" edge="1" parent="1" source="gZAkS-AGusxoyFhxjlCA-1" target="gZAkS-AGusxoyFhxjlCA-4">
           <mxGeometry relative="1" as="geometry">
