@@ -1,0 +1,34 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="OzIZaU31ovUiBsOhRELC">
+    <mxGraphModel dx="1834" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P4z44FX9lxYSgM-U-x_h-1" value="Pod" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;verticalAlign=bottom;fontSize=18;arcSize=9;" vertex="1" parent="1">
+          <mxGeometry x="200" y="170" width="320" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="P4z44FX9lxYSgM-U-x_h-2" value="App&lt;div&gt;Container&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;verticalAlign=middle;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P4z44FX9lxYSgM-U-x_h-3" value="Pause&lt;div&gt;Container&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;verticalAlign=middle;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P4z44FX9lxYSgM-U-x_h-4" value="App&lt;div&gt;Container&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;verticalAlign=middle;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P4z44FX9lxYSgM-U-x_h-5" value="App&lt;div&gt;Container&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;verticalAlign=middle;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P4z44FX9lxYSgM-U-x_h-6" value="Init&lt;div&gt;Container&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;verticalAlign=middle;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P4z44FX9lxYSgM-U-x_h-8" value="CNI" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P4z44FX9lxYSgM-U-x_h-9" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=bottom;fontFamily=Gloria Hallelujah;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGloria%2BHallelujah;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="170" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
